@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @dellastao (Della Tao)
-- 🌱 I’m currently learning Health Informatics
 - 📫 How to reach me: dellastao@gmail.com
 
 <!---
